@@ -6,7 +6,7 @@ The project creates a fun birthday experience where the user opens an animated g
 
 ## 🌟 Live Demo
 
-🔗 **Live Website:** Add your deployed website link here
+🔗 **Live Website:https://spandana0607.github.io/birthday/
 
 ## 📸 Project Preview
 
@@ -193,7 +193,7 @@ This allows the project to work on:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/birthday-magic-box.git
+git clone https://github.com/spandana0607/birthday-magic-box.git
 ```
 
 Open the project folder:
